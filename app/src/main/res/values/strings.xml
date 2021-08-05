@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qLua demo</string>
+    <string name="call_lua_function">call lua function directlt</string>
+    <string name="call_lua_bind_function">call lua function via native java method</string>
+</resources>
