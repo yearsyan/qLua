@@ -11,6 +11,7 @@ import android.widget.Button;
 
 import java.io.IOException;
 import java.io.InputStream;
+import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity {
 
